@@ -2,7 +2,7 @@
     "name": "contactlab/magento2-core",
     "description": "Core module for Magento 2",
     "require": {
-        "php": "~7.0.0"
+        "php": "~7.0"
     },
     "suggest": {
 
